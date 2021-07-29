@@ -14,18 +14,21 @@
 		6AE6657C1768DB2ACFF7D5AD /* libPods-RNTemplate-RNTemplateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E49BCC8070E17FBCCD3ACCC1 /* libPods-RNTemplate-RNTemplateTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		AF8AF1207DB94F0DA6E5C2A0 /* libPods-RNTemplate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 39CCB6B284A10E1CCDC745A2 /* libPods-RNTemplate.a */; };
-		CB06451C26B285B5003439F9 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06450D26B285B5003439F9 /* Roboto-Medium.ttf */; };
-		CB06451D26B285B5003439F9 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06450E26B285B5003439F9 /* Lato-Bold.ttf */; };
-		CB06451E26B285B5003439F9 /* Raleway-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06450F26B285B5003439F9 /* Raleway-Medium.ttf */; };
-		CB06451F26B285B5003439F9 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451026B285B5003439F9 /* Poppins-Light.ttf */; };
-		CB06452026B285B5003439F9 /* Raleway-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451126B285B5003439F9 /* Raleway-SemiBold.ttf */; };
-		CB06452226B285B5003439F9 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451326B285B5003439F9 /* Roboto-Regular.ttf */; };
-		CB06452326B285B5003439F9 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451426B285B5003439F9 /* Lato-Regular.ttf */; };
-		CB06452426B285B5003439F9 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451526B285B5003439F9 /* Raleway-Regular.ttf */; };
-		CB06452626B285B5003439F9 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451726B285B5003439F9 /* Raleway-Light.ttf */; };
-		CB06452726B285B5003439F9 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451826B285B5003439F9 /* Lato-Light.ttf */; };
-		CB06452826B285B5003439F9 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451926B285B5003439F9 /* Poppins-Bold.ttf */; };
-		CB06452926B285B5003439F9 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451A26B285B5003439F9 /* Raleway-Bold.ttf */; };
+		CBC6761426B28EFB0086F473 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760526B28EFB0086F473 /* Roboto-Medium.ttf */; };
+		CBC6761526B28EFB0086F473 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760626B28EFB0086F473 /* Lato-Bold.ttf */; };
+		CBC6761626B28EFB0086F473 /* Raleway-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760726B28EFB0086F473 /* Raleway-Medium.ttf */; };
+		CBC6761726B28EFB0086F473 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760826B28EFB0086F473 /* Poppins-Light.ttf */; };
+		CBC6761826B28EFB0086F473 /* Raleway-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760926B28EFB0086F473 /* Raleway-SemiBold.ttf */; };
+		CBC6761A26B28EFB0086F473 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760B26B28EFB0086F473 /* Roboto-Regular.ttf */; };
+		CBC6761B26B28EFC0086F473 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760C26B28EFB0086F473 /* Lato-Regular.ttf */; };
+		CBC6761C26B28EFC0086F473 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760D26B28EFB0086F473 /* Raleway-Regular.ttf */; };
+		CBC6761E26B28EFC0086F473 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760F26B28EFB0086F473 /* Raleway-Light.ttf */; };
+		CBC6761F26B28EFC0086F473 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6761026B28EFB0086F473 /* Lato-Light.ttf */; };
+		CBC6762026B28EFC0086F473 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6761126B28EFB0086F473 /* Poppins-Bold.ttf */; };
+		CBC6762126B28EFC0086F473 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6761226B28EFB0086F473 /* Raleway-Bold.ttf */; };
+		CBC6762326B290770086F473 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760A26B28EFB0086F473 /* MaterialCommunityIcons.ttf */; };
+		CBC6762426B290770086F473 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6760E26B28EFB0086F473 /* Ionicons.ttf */; };
+		CBC6762526B290770086F473 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBC6761326B28EFB0086F473 /* MaterialIcons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,21 +57,21 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = RNTemplate/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA44FBBEE0C33094D8641A81 /* Pods-RNTemplate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTemplate.debug.xcconfig"; path = "Target Support Files/Pods-RNTemplate/Pods-RNTemplate.debug.xcconfig"; sourceTree = "<group>"; };
 		AD53025280898AD1A52904FA /* Pods-RNTemplate-RNTemplateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTemplate-RNTemplateTests.release.xcconfig"; path = "Target Support Files/Pods-RNTemplate-RNTemplateTests/Pods-RNTemplate-RNTemplateTests.release.xcconfig"; sourceTree = "<group>"; };
-		CB06450D26B285B5003439F9 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
-		CB06450E26B285B5003439F9 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
-		CB06450F26B285B5003439F9 /* Raleway-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Medium.ttf"; sourceTree = "<group>"; };
-		CB06451026B285B5003439F9 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
-		CB06451126B285B5003439F9 /* Raleway-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-SemiBold.ttf"; sourceTree = "<group>"; };
-		CB06451226B285B5003439F9 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
-		CB06451326B285B5003439F9 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
-		CB06451426B285B5003439F9 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
-		CB06451526B285B5003439F9 /* Raleway-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Regular.ttf"; sourceTree = "<group>"; };
-		CB06451626B285B5003439F9 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
-		CB06451726B285B5003439F9 /* Raleway-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Light.ttf"; sourceTree = "<group>"; };
-		CB06451826B285B5003439F9 /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Light.ttf"; sourceTree = "<group>"; };
-		CB06451926B285B5003439F9 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
-		CB06451A26B285B5003439F9 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
-		CB06451B26B285B5003439F9 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		CBC6760526B28EFB0086F473 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		CBC6760626B28EFB0086F473 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
+		CBC6760726B28EFB0086F473 /* Raleway-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Medium.ttf"; sourceTree = "<group>"; };
+		CBC6760826B28EFB0086F473 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		CBC6760926B28EFB0086F473 /* Raleway-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-SemiBold.ttf"; sourceTree = "<group>"; };
+		CBC6760A26B28EFB0086F473 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		CBC6760B26B28EFB0086F473 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		CBC6760C26B28EFB0086F473 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
+		CBC6760D26B28EFB0086F473 /* Raleway-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Regular.ttf"; sourceTree = "<group>"; };
+		CBC6760E26B28EFB0086F473 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		CBC6760F26B28EFB0086F473 /* Raleway-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Light.ttf"; sourceTree = "<group>"; };
+		CBC6761026B28EFB0086F473 /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Light.ttf"; sourceTree = "<group>"; };
+		CBC6761126B28EFB0086F473 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		CBC6761226B28EFB0086F473 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
+		CBC6761326B28EFB0086F473 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
 		E49BCC8070E17FBCCD3ACCC1 /* libPods-RNTemplate-RNTemplateTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNTemplate-RNTemplateTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -143,7 +146,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				CB06450C26B285B5003439F9 /* Resouces */,
+				CBC6760426B28EFB0086F473 /* Resources */,
 				13B07FAE1A68108700A75B9A /* RNTemplate */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* RNTemplateTests */,
@@ -176,26 +179,26 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		CB06450C26B285B5003439F9 /* Resouces */ = {
+		CBC6760426B28EFB0086F473 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				CB06450D26B285B5003439F9 /* Roboto-Medium.ttf */,
-				CB06450E26B285B5003439F9 /* Lato-Bold.ttf */,
-				CB06450F26B285B5003439F9 /* Raleway-Medium.ttf */,
-				CB06451026B285B5003439F9 /* Poppins-Light.ttf */,
-				CB06451126B285B5003439F9 /* Raleway-SemiBold.ttf */,
-				CB06451226B285B5003439F9 /* MaterialCommunityIcons.ttf */,
-				CB06451326B285B5003439F9 /* Roboto-Regular.ttf */,
-				CB06451426B285B5003439F9 /* Lato-Regular.ttf */,
-				CB06451526B285B5003439F9 /* Raleway-Regular.ttf */,
-				CB06451626B285B5003439F9 /* Ionicons.ttf */,
-				CB06451726B285B5003439F9 /* Raleway-Light.ttf */,
-				CB06451826B285B5003439F9 /* Lato-Light.ttf */,
-				CB06451926B285B5003439F9 /* Poppins-Bold.ttf */,
-				CB06451A26B285B5003439F9 /* Raleway-Bold.ttf */,
-				CB06451B26B285B5003439F9 /* MaterialIcons.ttf */,
+				CBC6760526B28EFB0086F473 /* Roboto-Medium.ttf */,
+				CBC6760626B28EFB0086F473 /* Lato-Bold.ttf */,
+				CBC6760726B28EFB0086F473 /* Raleway-Medium.ttf */,
+				CBC6760826B28EFB0086F473 /* Poppins-Light.ttf */,
+				CBC6760926B28EFB0086F473 /* Raleway-SemiBold.ttf */,
+				CBC6760A26B28EFB0086F473 /* MaterialCommunityIcons.ttf */,
+				CBC6760B26B28EFB0086F473 /* Roboto-Regular.ttf */,
+				CBC6760C26B28EFB0086F473 /* Lato-Regular.ttf */,
+				CBC6760D26B28EFB0086F473 /* Raleway-Regular.ttf */,
+				CBC6760E26B28EFB0086F473 /* Ionicons.ttf */,
+				CBC6760F26B28EFB0086F473 /* Raleway-Light.ttf */,
+				CBC6761026B28EFB0086F473 /* Lato-Light.ttf */,
+				CBC6761126B28EFB0086F473 /* Poppins-Bold.ttf */,
+				CBC6761226B28EFB0086F473 /* Raleway-Bold.ttf */,
+				CBC6761326B28EFB0086F473 /* MaterialIcons.ttf */,
 			);
-			path = Resouces;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -292,20 +295,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CBC6762326B290770086F473 /* MaterialCommunityIcons.ttf in Resources */,
+				CBC6762426B290770086F473 /* Ionicons.ttf in Resources */,
+				CBC6762526B290770086F473 /* MaterialIcons.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
-				CB06451F26B285B5003439F9 /* Poppins-Light.ttf in Resources */,
+				CBC6761726B28EFB0086F473 /* Poppins-Light.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				CB06451E26B285B5003439F9 /* Raleway-Medium.ttf in Resources */,
-				CB06451C26B285B5003439F9 /* Roboto-Medium.ttf in Resources */,
-				CB06451D26B285B5003439F9 /* Lato-Bold.ttf in Resources */,
-				CB06452826B285B5003439F9 /* Poppins-Bold.ttf in Resources */,
-				CB06452226B285B5003439F9 /* Roboto-Regular.ttf in Resources */,
-				CB06452326B285B5003439F9 /* Lato-Regular.ttf in Resources */,
-				CB06452626B285B5003439F9 /* Raleway-Light.ttf in Resources */,
-				CB06452426B285B5003439F9 /* Raleway-Regular.ttf in Resources */,
-				CB06452026B285B5003439F9 /* Raleway-SemiBold.ttf in Resources */,
-				CB06452726B285B5003439F9 /* Lato-Light.ttf in Resources */,
-				CB06452926B285B5003439F9 /* Raleway-Bold.ttf in Resources */,
+				CBC6761626B28EFB0086F473 /* Raleway-Medium.ttf in Resources */,
+				CBC6761426B28EFB0086F473 /* Roboto-Medium.ttf in Resources */,
+				CBC6761526B28EFB0086F473 /* Lato-Bold.ttf in Resources */,
+				CBC6762026B28EFC0086F473 /* Poppins-Bold.ttf in Resources */,
+				CBC6761A26B28EFB0086F473 /* Roboto-Regular.ttf in Resources */,
+				CBC6761B26B28EFC0086F473 /* Lato-Regular.ttf in Resources */,
+				CBC6761E26B28EFC0086F473 /* Raleway-Light.ttf in Resources */,
+				CBC6761C26B28EFC0086F473 /* Raleway-Regular.ttf in Resources */,
+				CBC6761826B28EFB0086F473 /* Raleway-SemiBold.ttf in Resources */,
+				CBC6761F26B28EFC0086F473 /* Lato-Light.ttf in Resources */,
+				CBC6762126B28EFC0086F473 /* Raleway-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
