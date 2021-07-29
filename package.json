@@ -7,13 +7,14 @@
     "ios": "react-native run-ios",
     "ios12": "react-native run-ios --simulator 'iPhone 12'",
     "start": "react-native start --reset-cache",
-    "pod-install":"cd ios && pod install && cd ..",
+    "pod-install": "cd ios && pod install && cd ..",
     "test": "jest",
     "lint": "eslint ."
   },
   "dependencies": {
     "react": "17.0.1",
-    "react-native": "0.64.2"
+    "react-native": "0.64.2",
+    "react-native-vector-icons": "^8.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

@@ -14,6 +14,21 @@
 		6AE6657C1768DB2ACFF7D5AD /* libPods-RNTemplate-RNTemplateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E49BCC8070E17FBCCD3ACCC1 /* libPods-RNTemplate-RNTemplateTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		AF8AF1207DB94F0DA6E5C2A0 /* libPods-RNTemplate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 39CCB6B284A10E1CCDC745A2 /* libPods-RNTemplate.a */; };
+		CB06451C26B285B5003439F9 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06450D26B285B5003439F9 /* Roboto-Medium.ttf */; };
+		CB06451D26B285B5003439F9 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06450E26B285B5003439F9 /* Lato-Bold.ttf */; };
+		CB06451E26B285B5003439F9 /* Raleway-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06450F26B285B5003439F9 /* Raleway-Medium.ttf */; };
+		CB06451F26B285B5003439F9 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451026B285B5003439F9 /* Poppins-Light.ttf */; };
+		CB06452026B285B5003439F9 /* Raleway-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451126B285B5003439F9 /* Raleway-SemiBold.ttf */; };
+		CB06452126B285B5003439F9 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451226B285B5003439F9 /* MaterialCommunityIcons.ttf */; };
+		CB06452226B285B5003439F9 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451326B285B5003439F9 /* Roboto-Regular.ttf */; };
+		CB06452326B285B5003439F9 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451426B285B5003439F9 /* Lato-Regular.ttf */; };
+		CB06452426B285B5003439F9 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451526B285B5003439F9 /* Raleway-Regular.ttf */; };
+		CB06452526B285B5003439F9 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451626B285B5003439F9 /* Ionicons.ttf */; };
+		CB06452626B285B5003439F9 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451726B285B5003439F9 /* Raleway-Light.ttf */; };
+		CB06452726B285B5003439F9 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451826B285B5003439F9 /* Lato-Light.ttf */; };
+		CB06452826B285B5003439F9 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451926B285B5003439F9 /* Poppins-Bold.ttf */; };
+		CB06452926B285B5003439F9 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451A26B285B5003439F9 /* Raleway-Bold.ttf */; };
+		CB06452A26B285B5003439F9 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451B26B285B5003439F9 /* MaterialIcons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +57,21 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = RNTemplate/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA44FBBEE0C33094D8641A81 /* Pods-RNTemplate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTemplate.debug.xcconfig"; path = "Target Support Files/Pods-RNTemplate/Pods-RNTemplate.debug.xcconfig"; sourceTree = "<group>"; };
 		AD53025280898AD1A52904FA /* Pods-RNTemplate-RNTemplateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTemplate-RNTemplateTests.release.xcconfig"; path = "Target Support Files/Pods-RNTemplate-RNTemplateTests/Pods-RNTemplate-RNTemplateTests.release.xcconfig"; sourceTree = "<group>"; };
+		CB06450D26B285B5003439F9 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		CB06450E26B285B5003439F9 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
+		CB06450F26B285B5003439F9 /* Raleway-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Medium.ttf"; sourceTree = "<group>"; };
+		CB06451026B285B5003439F9 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		CB06451126B285B5003439F9 /* Raleway-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-SemiBold.ttf"; sourceTree = "<group>"; };
+		CB06451226B285B5003439F9 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		CB06451326B285B5003439F9 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		CB06451426B285B5003439F9 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
+		CB06451526B285B5003439F9 /* Raleway-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Regular.ttf"; sourceTree = "<group>"; };
+		CB06451626B285B5003439F9 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		CB06451726B285B5003439F9 /* Raleway-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Light.ttf"; sourceTree = "<group>"; };
+		CB06451826B285B5003439F9 /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Light.ttf"; sourceTree = "<group>"; };
+		CB06451926B285B5003439F9 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		CB06451A26B285B5003439F9 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
+		CB06451B26B285B5003439F9 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
 		E49BCC8070E17FBCCD3ACCC1 /* libPods-RNTemplate-RNTemplateTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNTemplate-RNTemplateTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -116,6 +146,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				CB06450C26B285B5003439F9 /* Resouces */,
 				13B07FAE1A68108700A75B9A /* RNTemplate */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* RNTemplateTests */,
@@ -145,8 +176,29 @@
 				14BD666B4A29A7882CB042BF /* Pods-RNTemplate-RNTemplateTests.debug.xcconfig */,
 				AD53025280898AD1A52904FA /* Pods-RNTemplate-RNTemplateTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		CB06450C26B285B5003439F9 /* Resouces */ = {
+			isa = PBXGroup;
+			children = (
+				CB06450D26B285B5003439F9 /* Roboto-Medium.ttf */,
+				CB06450E26B285B5003439F9 /* Lato-Bold.ttf */,
+				CB06450F26B285B5003439F9 /* Raleway-Medium.ttf */,
+				CB06451026B285B5003439F9 /* Poppins-Light.ttf */,
+				CB06451126B285B5003439F9 /* Raleway-SemiBold.ttf */,
+				CB06451226B285B5003439F9 /* MaterialCommunityIcons.ttf */,
+				CB06451326B285B5003439F9 /* Roboto-Regular.ttf */,
+				CB06451426B285B5003439F9 /* Lato-Regular.ttf */,
+				CB06451526B285B5003439F9 /* Raleway-Regular.ttf */,
+				CB06451626B285B5003439F9 /* Ionicons.ttf */,
+				CB06451726B285B5003439F9 /* Raleway-Light.ttf */,
+				CB06451826B285B5003439F9 /* Lato-Light.ttf */,
+				CB06451926B285B5003439F9 /* Poppins-Bold.ttf */,
+				CB06451A26B285B5003439F9 /* Raleway-Bold.ttf */,
+				CB06451B26B285B5003439F9 /* MaterialIcons.ttf */,
+			);
+			path = Resouces;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,7 +296,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				CB06451F26B285B5003439F9 /* Poppins-Light.ttf in Resources */,
+				CB06452526B285B5003439F9 /* Ionicons.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				CB06451E26B285B5003439F9 /* Raleway-Medium.ttf in Resources */,
+				CB06451C26B285B5003439F9 /* Roboto-Medium.ttf in Resources */,
+				CB06451D26B285B5003439F9 /* Lato-Bold.ttf in Resources */,
+				CB06452826B285B5003439F9 /* Poppins-Bold.ttf in Resources */,
+				CB06452226B285B5003439F9 /* Roboto-Regular.ttf in Resources */,
+				CB06452326B285B5003439F9 /* Lato-Regular.ttf in Resources */,
+				CB06452626B285B5003439F9 /* Raleway-Light.ttf in Resources */,
+				CB06452A26B285B5003439F9 /* MaterialIcons.ttf in Resources */,
+				CB06452126B285B5003439F9 /* MaterialCommunityIcons.ttf in Resources */,
+				CB06452426B285B5003439F9 /* Raleway-Regular.ttf in Resources */,
+				CB06452026B285B5003439F9 /* Raleway-SemiBold.ttf in Resources */,
+				CB06452726B285B5003439F9 /* Lato-Light.ttf in Resources */,
+				CB06452926B285B5003439F9 /* Raleway-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
