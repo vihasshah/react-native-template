@@ -19,16 +19,13 @@
 		CB06451E26B285B5003439F9 /* Raleway-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06450F26B285B5003439F9 /* Raleway-Medium.ttf */; };
 		CB06451F26B285B5003439F9 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451026B285B5003439F9 /* Poppins-Light.ttf */; };
 		CB06452026B285B5003439F9 /* Raleway-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451126B285B5003439F9 /* Raleway-SemiBold.ttf */; };
-		CB06452126B285B5003439F9 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451226B285B5003439F9 /* MaterialCommunityIcons.ttf */; };
 		CB06452226B285B5003439F9 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451326B285B5003439F9 /* Roboto-Regular.ttf */; };
 		CB06452326B285B5003439F9 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451426B285B5003439F9 /* Lato-Regular.ttf */; };
 		CB06452426B285B5003439F9 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451526B285B5003439F9 /* Raleway-Regular.ttf */; };
-		CB06452526B285B5003439F9 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451626B285B5003439F9 /* Ionicons.ttf */; };
 		CB06452626B285B5003439F9 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451726B285B5003439F9 /* Raleway-Light.ttf */; };
 		CB06452726B285B5003439F9 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451826B285B5003439F9 /* Lato-Light.ttf */; };
 		CB06452826B285B5003439F9 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451926B285B5003439F9 /* Poppins-Bold.ttf */; };
 		CB06452926B285B5003439F9 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451A26B285B5003439F9 /* Raleway-Bold.ttf */; };
-		CB06452A26B285B5003439F9 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB06451B26B285B5003439F9 /* MaterialIcons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -297,7 +294,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				CB06451F26B285B5003439F9 /* Poppins-Light.ttf in Resources */,
-				CB06452526B285B5003439F9 /* Ionicons.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				CB06451E26B285B5003439F9 /* Raleway-Medium.ttf in Resources */,
 				CB06451C26B285B5003439F9 /* Roboto-Medium.ttf in Resources */,
@@ -306,8 +302,6 @@
 				CB06452226B285B5003439F9 /* Roboto-Regular.ttf in Resources */,
 				CB06452326B285B5003439F9 /* Lato-Regular.ttf in Resources */,
 				CB06452626B285B5003439F9 /* Raleway-Light.ttf in Resources */,
-				CB06452A26B285B5003439F9 /* MaterialIcons.ttf in Resources */,
-				CB06452126B285B5003439F9 /* MaterialCommunityIcons.ttf in Resources */,
 				CB06452426B285B5003439F9 /* Raleway-Regular.ttf in Resources */,
 				CB06452026B285B5003439F9 /* Raleway-SemiBold.ttf in Resources */,
 				CB06452726B285B5003439F9 /* Lato-Light.ttf in Resources */,
