@@ -1,5 +1,5 @@
 {
-  "name": "RNTemplate",
+  "name": "{{name}}",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,6 +11,8 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "description": "{{description}}",
+  "author": "{{author}}",
   "dependencies": {
     "react": "17.0.1",
     "react-native": "0.64.2",
